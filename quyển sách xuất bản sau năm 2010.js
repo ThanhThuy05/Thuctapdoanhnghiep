@@ -1,0 +1,1 @@
+db.Sach.find({'Nam_xuat_ban':{$gt:2010}})
